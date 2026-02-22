@@ -1,6 +1,6 @@
 # My First n8n Workflow
 
-This is my very first n8n workflow! 🎉  
+This is my very first n8n workflow! 
 
 **What it does:**  
 - Uses a **Manual Trigger** — run it by clicking “Execute workflow” in n8n.  

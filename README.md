@@ -1,10 +1,5 @@
 # My First n8n Workflow
 
-![License](https://img.shields.io/github/license/yourusername/yourrepo)
-![Node.js](https://img.shields.io/badge/Node.js-18.0-green)
-![n8n](https://img.shields.io/badge/n8n-Workflow-blue)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-
 This is my very first n8n workflow! 🎉  
 
 **What it does:**  

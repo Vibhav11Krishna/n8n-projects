@@ -4,7 +4,7 @@ This is my very first n8n workflow!
 
 **What it does:**  
 - Uses a **Manual Trigger** — run it by clicking “Execute workflow” in n8n.  
-- Generates a **random number between 0–99** and stores it in the field `message`.  
+- Generates a **random number between 0–99** and stores it in the field `message` using the workflow.  
 - Shows how to use **expressions** in n8n for dynamic values.
 
 ---
